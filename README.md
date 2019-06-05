@@ -1,3 +1,5 @@
+This script doesn't work in your environment unless you match some of the codes with image files used for image matching(screenshot & locate) functions in pyautogui.
+
 # Automated BD Rerolloer
 Let's contract a legend mercenary in a mobile game.
 
